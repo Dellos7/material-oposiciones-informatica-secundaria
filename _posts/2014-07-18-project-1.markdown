@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
+date: 2022-08-10
+img: temario.png
+title: Temario
+alt: Temario (80€)
+archivo_muestra: Muestra-temas.zip
+project-date: Agosto 2022
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Los 33 temas con los que obtuve la mejor nota de mi comunidad en la parte teórica. Los temas y su extensión están listos y preparados para memorizarse y poder ser redactados en 2h (incluyen introducción, conclusión y bibliografía). Los temas son el 2, 11, 12, 15, 16, 17, 18, 19, 23, 24, 25, 26, 27, 28, 29, 31, 32, 34, 35, 36, 38, 39, 40, 48, 49, 50, 51, 53, 61, 62, 63, 64 y 65. Simplemente estudiando estos temas te aseguras un 95,35% de probabilidad de sacar bola.
 ---

@@ -1,11 +1,17 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
-alt: image-alt
-project-date: April 2014
+date: 2022-08-10
+img: programacion-didactica.png
+title: Programación Didáctica
+alt: Programación Didáctica (80€)
+archivo_muestra: Muestra-programacion-didactica.zip
+project-date: Agosto 2022
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: "<p>La programación didáctica con la que aprobé las oposiciones de profesor de secundaria de la especialidad de informática en el año 2021. Está desarrollada para el módulo de Programación Multimedia y Dispositivos Móviles, del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM).
+</p>
+<p>Se incluye el propio documento de la programación y otros 8 documentos de entre 30-50 páginas cada uno con 8 de las 10 unidades didácticas de la programación muy detalladas y desarrolladas.</p>
+<p>Además, incluyo los guiones y las láminas que utilicé para la defensa oral de la programación ante el tribunal.</p>
+<p>En formato digital en .docx para poder editarlo y .pdf</p>"
 ---

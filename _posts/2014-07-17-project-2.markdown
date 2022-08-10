@@ -1,11 +1,17 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
+date: 2022-08-10
+img: practico.png
+title: Supuestos prácticos
+alt: Supuestos prácticos (170€)
+archivo_muestra: Muestra-practico.zip
+project-date: Agosto 2022
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: "El material incluye enunciados de exámenes y exámenes resueltos, apuntes, ejercicios y proyectos resueltos acerca de:
+<ul>
+<li>Álgebra relacional</li><li>Android (desarrollo de apps)</li><li>Bash (terminal y scripting)</li><li>C</li><li>C++</li><li>C#</li><li>Expresiones regulares</li><li>Git</li><li>HTML, CSS y JavaScript</li><li>Node</li><li>PHP</li><li>Python</li><li>Redes</li><li>SQL</li><li>UML</li><li>XML, DTD, XSD y XSL</li>
+</ul>
+<p>Algunas áreas están más desarrolladas que otras. Por ejemplo, de redes incluyo: Apache web server, CCNA, DHCP, DNS, Docker, exámenes, FTP,  IPTABLES, Mail Server, SSH Server, entre otras cosas.</p>"
 ---

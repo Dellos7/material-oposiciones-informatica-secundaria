@@ -4,23 +4,35 @@
         <div class="container portfolio-flex-grid">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Portfolio</h2>
+                    <h2>Material</h2>
                     <hr class="star-primary">
                 </div>
             </div>
+            <p class="centered">Pincha en cada uno para obtener más información de lo que incluyen.</p>
             <div class="portfolio-flex-row">
                 {% for post in site.posts %}
                     <div class="portfolio-flex-item portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
+                                    <!--<span class="name">{{ post.alt }}</span>-->
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
+                        <p class="material-alt">{{ post.alt }}</p>
                     </div>
                 {% endfor %}
             </div>
+            <div class="row centered">
+                <h3>Si lo coges todo: 250€</h3>
+            </div>
+            <div class="row centered padding-10">
+                <span class="page-scroll">
+                    <a href="#contact" class="btn btn-success btn-lg">¡Lo quiero!</a>
+                </span>
+            </div>
+            <p class="centered">Descarga una <span class="page-scroll bold"><a href="#about">muestra gratuita</a></span> del material si todavía no estás convencido.</p>
         </div>
     </section>
